@@ -35,3 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
+
+### 구글 클라이언트 id, passwd ###
+application-real-oauth.properties
